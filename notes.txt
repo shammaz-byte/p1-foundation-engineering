@@ -1,2 +1,3 @@
-First line
+<---- Git practice notes ---->
+
 TTL = DNS copy ka timer
